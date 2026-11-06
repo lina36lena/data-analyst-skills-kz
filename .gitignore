@@ -1,0 +1,11 @@
+.env
+.env.*
+.pgpass
+pgpass.conf
+~$*
+*.tmp
+*.bak
+*.log
+.pbi/
+.DS_Store
+Thumbs.db
